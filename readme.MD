@@ -1,13 +1,18 @@
 ## Environment
 ```conda create --name tractor```
+
 ```conda activate tractor```
 
 ## Requirements
-Pillow==9.5.0
-torch
-torchvision
-scikit-learn
-matplotlib
+```Pillow==9.5.0```
+
+```torch```
+
+```torchvision```
+
+```scikit-learn```
+
+```matplotlib```
 
 pip3 install -r requirements.txt
 
